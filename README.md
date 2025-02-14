@@ -31,5 +31,6 @@ Explored key metrics like:
 - **Visualizations** for attrition by age, salary, job role, and more.  
 - **Highlighted KPIs** for quick insights.
 
-![image](https://github.com/user-attachments/assets/9aec39e0-7b75-4565-b296-003a7bd13ab1)
+![image](https://github.com/user-attachments/assets/c6a01a61-bb62-4bac-82d5-3d450331141b)
+
 
